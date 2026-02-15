@@ -1,0 +1,3 @@
+validatorLambdaArn: ""
+dynamoDbTableName: "iam-policy-validations"
+validationTtlDays: 90
